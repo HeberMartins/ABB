@@ -20,7 +20,7 @@ import com.agenda.contato.Entities.contato;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:4200") //
+@CrossOrigin(origins = "http://localhost:4200") 
 @RestController
 @RequestMapping("contato")
 public class ContatoController {
