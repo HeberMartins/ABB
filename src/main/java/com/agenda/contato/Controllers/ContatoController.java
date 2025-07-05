@@ -20,7 +20,7 @@ import com.agenda.contato.Entities.contato;
 
 import java.util.List;
 
-@CrossOrigin(origins = "https://main.d22u05ozk7cbs7.amplifyapp.com/home") 
+@CrossOrigin(origins = "https://main.d22u05ozk7cbs7.amplifyapp.com") 
 @RestController
 @RequestMapping("contato")
 public class ContatoController {
